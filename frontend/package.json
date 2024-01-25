@@ -17,6 +17,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@vue/compiler-sfc": "^3.4.15",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-vue-next": "^0.314.0",
